@@ -1,6 +1,6 @@
-# Hola, mi nombre es Eduardo 👋
+# Hi 👋 , my name is Eduardo 
 
-Soy Ingeniero Mecatrónico, apasionado por el análisis y la optimización de procesos. Cuento con más de seis años en la industria automotriz, lo que me ha permitido desarrollar una sólida capacidad analítica y de resolución de problemas. Gracias a mis habilidades y compromiso he logrado obtener promociones y mejores oportunidades laborales, recientemente he complementado mi formación con un curso de Análisis de Datos. Busco aplicar mis habilidades en Python y SQL para generar insights que impulsen la eficiencia y la toma de decisiones basadas en datos.
+I am a Mechatronics Engineer passionate about process analysis and optimization. With over six years of experience in the automotive industry, I have developed strong analytical and problem-solving skills. Thanks to my abilities and commitment, I have earned promotions and better career opportunities. Recently, I complemented my background with a Data Analysis course. I am looking to apply my skills in Python and SQL to generate insights that drive efficiency and data-driven decision-making.
 
 ## 🧠 Habilidades y conocimientos
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
