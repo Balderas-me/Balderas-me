@@ -2,7 +2,7 @@
 
 I am a Mechatronics Engineer passionate about process analysis and optimization. With over six years of experience in the automotive industry, I have developed strong analytical and problem-solving skills. Thanks to my abilities and commitment, I have earned promotions and better career opportunities. Recently, I complemented my background with a Data Analysis course. I am looking to apply my skills in Python and SQL to generate insights that drive efficiency and data-driven decision-making.
 
-## 🧠 Habilidades y conocimientos
+## 🧠 Skills and knowledge
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -13,7 +13,7 @@ I am a Mechatronics Engineer passionate about process analysis and optimization.
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balderas-ed2468/)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:balderas_1093@hotmail.com)
