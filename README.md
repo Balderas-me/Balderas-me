@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Balderas-me/Balderas-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 # Hola, mi nombre es Eduardo 👋
 
 Soy Ingeniero Mecatrónico, apasionado por el análisis y la optimización de procesos. Cuento con más de seis años en la industria automotriz, lo que me ha permitido desarrollar una sólida capacidad analítica y de resolución de problemas. Gracias a mis habilidades y compromiso he logrado obtener promociones y mejores oportunidades laborales, recientemente he complementado mi formación con un curso de Análisis de Datos. Busco aplicar mis habilidades en Python y SQL para generar insights que impulsen la eficiencia y la toma de decisiones basadas en datos.
